@@ -1,4 +1,4 @@
-modern shopping site front page with contemporary design features:
+## Amodern shopping site front page with contemporary design features created by Deividas Strole:
 Design Highlights:
 
 Glassmorphism header with backdrop blur that appears on scroll
@@ -38,3 +38,16 @@ TrendingUp - for the "Spring Collection" badge
 Example usage:
 jsx<Heart size={20} className="text-gray-700" />
 It's essentially a modern replacement for icon libraries like Font Awesome or Material Icons, but specifically designed for React and with a more minimal, contemporary aesthetic. The icons render as inline SVGs, so they're scalable and performant.Claude is AI and can make mistakes. Please double-check responses. Sonnet 4.5
+
+## 📫 Connect
+
+- [Deividas Strole](https://deividasstrole.com)  
+- [LinkedIn](https://linkedin.com/in/deividas-strole)  
+- [YouTube](https://youtube.com/@deividas-strole)  
+- [Dev.to](https://dev.to/deividas-strole)  
+- [Medium](https://medium.com/@deividas-strole)  
+- [X](https://x.com/deividasstrole)  
+
+⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
+
+© Deividas Strole. All rights reserved.
