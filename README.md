@@ -1,4 +1,5 @@
-## Amodern shopping site front page with contemporary design features created by Deividas Strole:
+## Modern Shopping Site Created by Deividas Strole
+
 Design Highlights:
 
 Glassmorphism header with backdrop blur that appears on scroll
