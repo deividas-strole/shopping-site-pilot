@@ -1,4 +1,4 @@
-## Modern Shopping Site Created by Deividas Strole
+## Modern Shopping Site (pilot) by Deividas Strole
 
 Design Highlights:
 
